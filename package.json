@@ -1,5 +1,5 @@
 {
-	"name": "gulp-pipeline",
+	"name": "@phylum/gulp-pipeline",
 	"version": "3.0.0",
 	"description": "Create a gulp task that runs a pipeline or pipeline task.",
 	"main": "lib",
