@@ -16,7 +16,14 @@
 		"nyc": "^13.1.0"
 	},
 	"peerDependencies": {
-		"@phylum/pipeline": "^3.0.0"
+		"@phylum/pipeline": "^3.0.0",
+		"gulp": "^4.0.0"
+	},
+	"nyc": {
+		"reporter": [
+			"text",
+			"text-summary"
+		]
 	},
 	"repository": "github:phylumjs/gulp-pipeline",
 	"author": "Max J. Polster",

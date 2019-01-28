@@ -1,4 +1,8 @@
-# gulp-pipeline
+# Gulp Pipeline
+[![Coverage Status](https://coveralls.io/repos/github/phylumjs/gulp-pipeline/badge.svg?branch=master)](https://coveralls.io/github/phylumjs/gulp-pipeline?branch=master)
+[![Build Status](https://travis-ci.com/phylumjs/gulp-pipeline.svg?branch=master)](https://travis-ci.com/phylumjs/gulp-pipeline)
+[![Version](https://img.shields.io/npm/v/@phylum/gulp-pipeline.svg) ![License](https://img.shields.io/npm/l/@phylum/gulp-pipeline.svg)](https://npmjs.org/package/@phylum/gulp-pipeline)
+
 Create a gulp task that runs a pipeline or pipeline task.
 
 ## Installation
